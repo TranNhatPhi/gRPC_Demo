@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rSxltqBovxibFKTTu+Er5o+suKL8/vUxYjR+IGvuuiE=",
+  "Source": "GrpcAuth.Server",
+  "BasePath": "_content/GrpcAuth.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

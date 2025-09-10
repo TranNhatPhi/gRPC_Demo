@@ -1,0 +1,2 @@
+obj\Debug\net8.0/Auth.cs \
+obj\Debug\net8.0/AuthGrpc.cs: ../GrpcAuth.Server/Protos/auth.proto
